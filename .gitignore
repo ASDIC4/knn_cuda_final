@@ -5,6 +5,10 @@
 x64/
 *.user
 
+# Ignore Specific files:
+*.txt
+*.ncu-rep
+
 # Ignore Git-specific directories
 .git/
 
